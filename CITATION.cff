@@ -11,7 +11,7 @@ abstract: >
   the JDST manuscript on re-evaluating CGM forecasting through event prediction
   and cross-population generalization.
 repository-code: "https://github.com/modalfuse/cgm-clinical-safety-reanalysis"
-doi: 10.5281/zenodo.21859991
+doi: 10.5281/zenodo.21859990
 keywords:
   - continuous glucose monitoring
   - clinical safety

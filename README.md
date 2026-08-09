@@ -1,6 +1,6 @@
 # CGM Clinical Safety Reanalysis
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21859991.svg)](https://doi.org/10.5281/zenodo.21859991)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21859990.svg)](https://doi.org/10.5281/zenodo.21859990)
 
 This audit-focused repository accompanies “Lower Point Error Does Not Imply Clinical Safety: Re-evaluating CGM Forecasting through Event Prediction and Cross-Population Generalization” (manuscript V5.5).
 
@@ -34,7 +34,7 @@ Generated tables and figures are written to `output/`.
 
 ## Data Availability
 
-The clinical-safety evaluation code, DTS Error Grid implementation, aggregate result tables, tests, and scripts for rebuilding principal result tables and data figures are available in this repository and archived at [https://doi.org/10.5281/zenodo.21859991](https://doi.org/10.5281/zenodo.21859991). The public CGM datasets analyzed in the study are available from their original sources cited in the manuscript. Data provenance and licensing details are documented in `docs/PRIVACY_AND_LICENSE.md`.
+The clinical-safety evaluation code, DTS Error Grid implementation, aggregate result tables, tests, and scripts for rebuilding principal result tables and data figures are available in this repository and archived at [https://doi.org/10.5281/zenodo.21859990](https://doi.org/10.5281/zenodo.21859990). The public CGM datasets analyzed in the study are available from their original sources cited in the manuscript. Data provenance and licensing details are documented in `docs/PRIVACY_AND_LICENSE.md`.
 
 ## License and citation
 
@@ -42,4 +42,4 @@ Repository code is available under the MIT License. Dataset rights remain with t
 
 Please cite the Zenodo archive for the software version used:
 
-> Liu Q, Yang M, Wang Z, Wang S, Liu W, An X, Lu S, Liu M, Yang Q. CGM Clinical Safety Reanalysis. Zenodo. https://doi.org/10.5281/zenodo.21859991
+> Liu Q, Yang M, Wang Z, Wang S, Liu W, An X, Lu S, Liu M, Yang Q. CGM Clinical Safety Reanalysis. Zenodo. https://doi.org/10.5281/zenodo.21859990
