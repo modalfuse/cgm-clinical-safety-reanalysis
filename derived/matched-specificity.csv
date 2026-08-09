@@ -1,0 +1,8 @@
+method,threshold_policy,specificity_pct,sensitivity_pct,fnr_pct,fnr_low,fnr_high,pr_auc
+Linear trajectory,default predicted-min <70 mg/dL,99.5,61.6,38.4,37.4,39.5,0.85
+Linear trajectory,post-hoc spec~0.90 using predicted-min score,90.1,89.8,10.2,9.6,10.9,0.85
+Linear trajectory,post-hoc spec~0.95 using predicted-min score,95.0,82.8,17.2,16.4,18.0,0.85
+Logistic event classifier,validation spec~0.90,90.1,90.4,9.6,9.0,10.2,0.87
+Logistic event classifier,validation spec~0.95,95.1,81.6,18.4,17.6,19.2,0.87
+XGBoost event classifier,validation spec~0.90,90.2,90.9,9.1,8.5,9.7,0.90
+XGBoost event classifier,validation spec~0.95,95.1,83.8,16.2,15.4,16.9,0.90

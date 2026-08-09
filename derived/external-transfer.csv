@@ -1,0 +1,9 @@
+source,target,model,threshold_policy,n_windows,event_positive_windows,event_positive_rate_pct,sensitivity_pct,specificity_pct,fnr_pct,fnr_low,fnr_high,pr_auc,fp_episodes_per_day
+weinstock,ShanghaiT1DM,XGBoost,source default 0.5,11195,1348,12.0,96.0,90.0,4.0,3.1,5.1,0.90,1.98
+weinstock,ShanghaiT1DM,Logistic,source default 0.5,11195,1348,12.0,95.1,90.4,4.9,3.9,6.2,0.87,1.85
+weinstock,ShanghaiT1DM,XGBoost,source val spec~0.80,11195,1348,12.0,98.9,81.2,1.1,0.7,1.9,0.90,2.36
+weinstock,ShanghaiT1DM,Logistic,source val spec~0.80,11195,1348,12.0,99.1,77.9,0.9,0.5,1.6,0.87,2.27
+weinstock,ShanghaiT2DM,XGBoost,source default 0.5,96026,3647,3.8,94.1,89.0,5.9,5.2,6.7,0.79,1.99
+weinstock,ShanghaiT2DM,Logistic,source default 0.5,96026,3647,3.8,92.7,91.1,7.3,6.5,8.2,0.75,1.69
+weinstock,ShanghaiT2DM,XGBoost,source val spec~0.80,96026,3647,3.8,98.5,75.8,1.5,1.2,2.0,0.79,2.59
+weinstock,ShanghaiT2DM,Logistic,source val spec~0.80,96026,3647,3.8,98.5,69.1,1.5,1.1,1.9,0.75,2.55

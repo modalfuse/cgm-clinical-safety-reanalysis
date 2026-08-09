@@ -1,0 +1,3 @@
+model,trajectory_mae,zone_a_pct,zone_a_low,zone_a_high,zone_d_pct,zone_d_low,zone_d_high,zones_cde_pct,zones_cde_low,zones_cde_high,point_hypo_fnr_pct,point_hypo_low,point_hypo_high,window_hypo_fnr_pct,window_hypo_low,window_hypo_high,hyper180_fnr_pct,hyper180_low,hyper180_high
+Linear regression,15.40,67.3,64.8,69.6,0.7,0.4,1.2,4.2,3.3,5.3,30.9,28.0,33.9,36.8,29.4,44.9,8.2,7.6,8.8
+N-HiTS,18.65,56.0,55.4,56.7,1.3,1.2,1.5,11.4,11.0,11.8,68.5,67.9,69.1,47.7,45.8,49.5,17.4,17.1,17.6

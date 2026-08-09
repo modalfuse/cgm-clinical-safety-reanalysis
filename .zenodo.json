@@ -1,0 +1,18 @@
+{
+  "title": "CGM Clinical Safety Reanalysis",
+  "description": "Audit-ready clinical-safety metrics, aggregate manuscript results, tests, and table/figure reconstruction.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Liu, Qiang"},
+    {"name": "Yang, Ming"},
+    {"name": "Wang, Zijiaqi"},
+    {"name": "Wang, Saier"},
+    {"name": "Liu, Wanyue"},
+    {"name": "An, Xiang"},
+    {"name": "Lu, Sichao"},
+    {"name": "Liu, Mingyuan"},
+    {"name": "Yang, Qiang"}
+  ],
+  "keywords": ["continuous glucose monitoring", "clinical safety", "DTS Error Grid", "hypoglycemia"]
+}

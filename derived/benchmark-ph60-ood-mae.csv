@@ -1,0 +1,8 @@
+model,iglu_mae,colas_mae,weinstock_mae,dubosson_mae,hall_mae
+Linear regression,13.39,5.88,17.62,15.85,8.87
+ARIMA,14.22,7.04,18.91,20.27,9.74
+XGBoost,14.00,7.36,18.37,19.36,9.10
+N-HiTS,17.73,6.68,16.96,18.72,8.73
+TFT,12.02,6.01,16.87,17.24,9.08
+Transformer,14.40,7.05,16.49,17.07,8.62
+Gluformer,18.50,7.82,19.08,25.16,9.32
