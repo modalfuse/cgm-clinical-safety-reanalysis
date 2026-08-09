@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21859990.svg)](https://doi.org/10.5281/zenodo.21859990)
 
-This audit-focused repository accompanies “Lower Point Error Does Not Imply Clinical Safety: Re-evaluating CGM Forecasting through Event Prediction and Cross-Population Generalization” (manuscript V5.5).
+This audit-focused repository accompanies “Lower Point Error Does Not Imply Clinical Safety: Re-evaluating CGM Forecasting through Event Prediction and Cross-Population Generalization”.
 
 It openly provides:
 
