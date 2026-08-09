@@ -2,25 +2,53 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it using these metadata."
 title: "CGM Clinical Safety Reanalysis"
 type: software
-version: 1.0.0
+version: 1.0.2
 date-released: 2026-08-09
 license: MIT
+abstract: >
+  Audit-focused clinical-safety evaluation code, DTS Error Grid implementation,
+  aggregate manuscript Tables 2–6, tests, and reconstruction scripts accompanying
+  the JDST manuscript on re-evaluating CGM forecasting through event prediction
+  and cross-population generalization.
+repository-code: "https://github.com/modalfuse/cgm-clinical-safety-reanalysis"
+doi: 10.5281/zenodo.21859991
+keywords:
+  - continuous glucose monitoring
+  - clinical safety
+  - DTS Error Grid
+  - hypoglycemia
+  - event prediction
+  - matched specificity
+  - cross-population generalization
 authors:
   - family-names: Liu
     given-names: Qiang
+    orcid: "https://orcid.org/0000-0003-3699-5858"
+    affiliation: "Academy of Artificial Intelligence, Beijing Institute of Petrochemical Technology"
   - family-names: Yang
     given-names: Ming
+    orcid: "https://orcid.org/0009-0006-9270-3521"
+    affiliation: "Academy of Artificial Intelligence, Beijing Institute of Petrochemical Technology"
   - family-names: Wang
     given-names: Zijiaqi
+    affiliation: "Academy of Artificial Intelligence, Beijing Institute of Petrochemical Technology"
   - family-names: Wang
     given-names: Saier
+    affiliation: "Academy of Artificial Intelligence, Beijing Institute of Petrochemical Technology"
   - family-names: Liu
     given-names: Wanyue
+    affiliation: "School of Interdisciplinary Studies, Lingnan University"
   - family-names: An
     given-names: Xiang
+    orcid: "https://orcid.org/0009-0004-3167-4072"
+    affiliation: "Academy of Artificial Intelligence, Beijing Institute of Petrochemical Technology"
   - family-names: Lu
     given-names: Sichao
+    affiliation: "Academy of Artificial Intelligence, Beijing Institute of Petrochemical Technology"
   - family-names: Liu
     given-names: Mingyuan
+    affiliation: "Department of Vascular Surgery, Beijing Friendship Hospital, Capital Medical University"
   - family-names: Yang
     given-names: Qiang
+    orcid: "https://orcid.org/0000-0001-5767-4637"
+    affiliation: "Academy of Artificial Intelligence, Beijing Institute of Petrochemical Technology"
